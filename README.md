@@ -17,4 +17,12 @@ The app invokes Android Module's method for recording the audio, it returns Base
 <img width="30%" alt="Screenshot_46" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/198efd2e-2d96-4ee5-8549-2547621e802f.png">
 </div>
 
+<div align="center">
+<img width="30%" alt="Screenshot_44" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/9f2e3cab-2708-4a87-8710-c7c72f9457c3.png">
+<img width="30%" alt="Screenshot_40" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/34bd0b0a-d6ce-49ef-957e-0c3e83dfed0c.png">
+<img width="30%" alt="Screenshot_46" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/c97bc729-23da-41a8-a3a6-cccfb2e2a7fc.png">
+</div>
+
+
+
 
