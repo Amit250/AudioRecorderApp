@@ -6,13 +6,15 @@ The app invokes Android Module's method for recording the audio, it returns Base
 
 ## Screenshots of the app
 <div align="center">
-<img width="30%" alt="Screenshot_42" src="https://github.com/Amit250/ToDoReminderApp/assets/58304052/ff0ccf5a-e9da-4524-9339-958220615b1c.png">
-<img width="30%" alt="Screenshot_43" src="https://github.com/Amit250/ToDoReminderApp/assets/58304052/409d36a8-9d5b-44ad-b620-bbee08eb6905.png">
-<img width="30%" alt="Screenshot_41" src="https://github.com/Amit250/ToDoReminderApp/assets/58304052/6fcaa316-5d41-4214-af23-e6a5c168fff3.png">
+<img width="30%" alt="Screenshot_42" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/7458b2d6-d1f2-45f5-af7c-805fcb8822a0.png">
+<img width="30%" alt="Screenshot_43" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/845d2653-4e35-4386-866c-e3ec48073641.png">
+<img width="30%" alt="Screenshot_41" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/bc9ab484-622e-49aa-bd5f-a1f5cb2abd4d.png">
 </div>
 
 <div align="center">
-<img width="30%" alt="Screenshot_44" src="https://github.com/Amit250/ToDoReminderApp/assets/58304052/95b29c60-0165-4b48-ad9d-6bedb5b523a9.png">
-<img width="30%" alt="Screenshot_40" src="https://github.com/Amit250/ToDoReminderApp/assets/58304052/71493a35-d8dd-4f89-989b-435efaa1a88d.png">
-<img width="30%" alt="Screenshot_46" src="https://github.com/Amit250/ToDoReminderApp/assets/58304052/25f2ac8c-3dde-49b8-89ef-eeaedc70a173">
+<img width="30%" alt="Screenshot_44" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/a5f56834-b30e-4e3d-9bf4-af6f3693b2d2.png">
+<img width="30%" alt="Screenshot_40" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/eac29929-0fc0-4edc-8caa-c22f93250bb5.png">
+<img width="30%" alt="Screenshot_46" src="https://github.com/Amit250/AudioRecorderApp/assets/58304052/198efd2e-2d96-4ee5-8549-2547621e802f.png">
 </div>
+
+
